@@ -4,3 +4,5 @@
 Repositório criado durante uma aula de git e github!
 
 Linha adiconada do repositório remoto.
+
+**Linha adicionada** utilizando *Markdown*
